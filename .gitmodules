@@ -1,0 +1,90 @@
+[submodule "dummy"]
+  path = dummy
+  url = git@github.com:work-design/dummy.git
+[submodule "rails_attend"]
+  path = rails_attend
+  url = git@github.com:work-design/rails_attend.git
+[submodule "rails_audit"]
+  path = rails_audit
+  url = git@github.com:work-design/rails_audit.git
+[submodule "rails_auth"]
+  path = rails_auth
+  url = git@github.com:work-design/rails_auth.git
+[submodule "rails_bench"]
+  path = rails_bench
+  url = git@github.com:work-design/rails_bench.git
+[submodule "rails_booking"]
+  path = rails_booking
+  url = git@github.com:work-design/rails_booking.git
+[submodule "rails_com"]
+  path = rails_com
+  url = git@github.com:work-design/rails_com.git
+[submodule "rails_data"]
+  path = rails_data
+  url = git@github.com:work-design/rails_data.git
+[submodule "rails_detail"]
+  path = rails_detail
+  url = git@github.com:work-design/rails_detail.git
+[submodule "rails_doc"]
+  path = rails_doc
+  url = git@github.com:work-design/rails_doc.git
+[submodule "rails_edu"]
+  path = rails_edu
+  url = git@github.com:work-design/rails_edu.git
+[submodule "rails_enquiry"]
+  path = rails_enquiry
+  url = git@github.com:work-design/rails_enquiry.git
+[submodule "rails_factory"]
+  path = rails_factory
+  url = git@github.com:work-design/rails_factory.git
+[submodule "rails_finance"]
+  path = rails_finance
+  url = git@github.com:work-design/rails_finance.git
+[submodule "rails_growth"]
+  path = rails_growth
+  url = git@github.com:work-design/rails_growth.git
+[submodule "rails_interact"]
+  path = rails_interact
+  url = git@github.com:work-design/rails_interact.git
+[submodule "rails_log"]
+  path = rails_log
+  url = git@github.com:work-design/rails_log.git
+[submodule "rails_media"]
+  path = rails_media
+  url = git@github.com:work-design/rails_media.git
+[submodule "rails_notice"]
+  path = rails_notice
+  url = git@github.com:work-design/rails_notice.git
+[submodule "rails_org"]
+  path = rails_org
+  url = git@github.com:work-design/rails_org.git
+[submodule "rails_profile"]
+  path = rails_profile
+  url = git@github.com:work-design/rails_profile.git
+[submodule "rails_role"]
+  path = rails_role
+  url = git@github.com:work-design/rails_role.git
+[submodule "rails_ship"]
+  path = rails_ship
+  url = git@github.com:work-design/rails_ship.git
+[submodule "rails_spider"]
+  path = rails_spider
+  url = git@github.com:work-design/rails_spider.git
+[submodule "rails_sync"]
+  path = rails_sync
+  url = git@github.com:work-design/rails_sync.git
+[submodule "rails_taxon"]
+  path = rails_taxon
+  url = git@github.com:work-design/rails_taxon.git
+[submodule "rails_things"]
+  path = rails_things
+  url = git@github.com:work-design/rails_things.git
+[submodule "rails_trade"]
+  path = rails_trade
+  url = git@github.com:work-design/rails_trade.git
+[submodule "rails_wallet"]
+  path = rails_wallet
+  url = git@github.com:work-design/rails_wallet.git
+[submodule "rails_wechat"]
+  path = rails_wechat
+  url = git@github.com:work-design/rails_wechat.git
