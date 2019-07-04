@@ -1,6 +1,3 @@
-[submodule "dummy"]
-  path = dummy
-  url = git@github.com:work-design/dummy.git
 [submodule "rails_attend"]
   path = rails_attend
   url = git@github.com:work-design/rails_attend.git
