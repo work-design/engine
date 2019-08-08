@@ -85,9 +85,6 @@
 [submodule "rails_vip"]
   path = rails_vip
   url = git@github.com:work-design/rails_vip.git
-[submodule "rails_wallet"]
-  path = rails_wallet
-  url = git@github.com:work-design/rails_wallet.git
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
