@@ -16,6 +16,9 @@
 [submodule "rails_com"]
   path = rails_com
   url = git@github.com:work-design/rails_com.git
+[submodule "rails_crm"]
+  path = rails_crm
+  url = git@github.com:work-design/rails_crm.git
 [submodule "rails_data"]
   path = rails_data
   url = git@github.com:work-design/rails_data.git
@@ -79,15 +82,12 @@
 [submodule "rails_trade"]
   path = rails_trade
   url = git@github.com:work-design/rails_trade.git
+[submodule "rails_vip"]
+  path = rails_vip
+  url = git@github.com:work-design/rails_vip.git
 [submodule "rails_wallet"]
   path = rails_wallet
   url = git@github.com:work-design/rails_wallet.git
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
-[submodule "rails_crm"]
-  path = rails_crm
-  url = git@github.com:work-design/rails_crm.git
-[submodule "rails_vip"]
-  path = rails_vip
-  url = git@github.com:work-design/rails_vip.git
