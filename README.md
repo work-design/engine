@@ -16,3 +16,5 @@ git submodule update --rebase
 git submodule update --merge 
 ```
 
+## engine 加载顺序
+在gemfile靠后的engine的model常量会先加载； 
