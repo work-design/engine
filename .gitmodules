@@ -10,9 +10,6 @@
 [submodule "rails_bench"]
   path = rails_bench
   url = git@github.com:work-design/rails_bench.git
-[submodule "rails_booking"]
-  path = rails_booking
-  url = git@github.com:work-design/rails_booking.git
 [submodule "rails_com"]
   path = rails_com
   url = git@github.com:work-design/rails_com.git
@@ -88,3 +85,6 @@
 [submodule "rails_hall"]
   path = rails_hall
   url = git@github.com:work-design/rails_hall.git
+[submodule "rails_event"]
+	path = rails_event
+	url = git@github.com:work-design/rails_event.git
