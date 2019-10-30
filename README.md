@@ -16,5 +16,11 @@ git submodule update --rebase
 git submodule update --merge 
 ```
 
+* 更新每个engine(子项目)
+```shell
+git submodule update --init --recursive
+git submodule update --rebase --recursive
+```
+
 ## engine 加载顺序
 在gemfile靠后的engine的model常量会先加载； 
