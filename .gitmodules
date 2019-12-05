@@ -82,9 +82,9 @@
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
-[submodule "rails_hall"]
-  path = rails_hall
-  url = git@github.com:work-design/rails_hall.git
+[submodule "rails_agency"]
+  path = rails_agency
+  url = git@github.com:work-design/rails_agency.git
 [submodule "rails_event"]
 	path = rails_event
 	url = git@github.com:work-design/rails_event.git
