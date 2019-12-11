@@ -86,5 +86,8 @@
   path = rails_agency
   url = git@github.com:work-design/rails_agency.git
 [submodule "rails_event"]
-	path = rails_event
-	url = git@github.com:work-design/rails_event.git
+  path = rails_event
+  url = git@github.com:work-design/rails_event.git
+[submodule "view_bootstrap"]
+  path = view_bootstrap
+  url = git@github.com:work-design/view_bootstrap.git
