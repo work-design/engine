@@ -1,3 +1,6 @@
+[submodule "rails_agency"]
+  path = rails_agency
+  url = git@github.com:work-design/rails_agency.git
 [submodule "rails_attend"]
   path = rails_attend
   url = git@github.com:work-design/rails_attend.git
@@ -31,6 +34,9 @@
 [submodule "rails_enquiry"]
   path = rails_enquiry
   url = git@github.com:work-design/rails_enquiry.git
+[submodule "rails_event"]
+  path = rails_event
+  url = git@github.com:work-design/rails_event.git
 [submodule "rails_factory"]
   path = rails_factory
   url = git@github.com:work-design/rails_factory.git
@@ -55,6 +61,9 @@
 [submodule "rails_profile"]
   path = rails_profile
   url = git@github.com:work-design/rails_profile.git
+[submodule "rails_quip"]
+  path = rails_quip
+  url = git@github.com:work-design/rails_quip.git
 [submodule "rails_role"]
   path = rails_role
   url = git@github.com:work-design/rails_role.git
@@ -82,12 +91,6 @@
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
-[submodule "rails_agency"]
-  path = rails_agency
-  url = git@github.com:work-design/rails_agency.git
-[submodule "rails_event"]
-  path = rails_event
-  url = git@github.com:work-design/rails_event.git
 [submodule "view_bootstrap"]
   path = view_bootstrap
   url = git@github.com:work-design/view_bootstrap.git
