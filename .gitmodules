@@ -70,9 +70,6 @@
 [submodule "rails_ship"]
   path = rails_ship
   url = git@github.com:work-design/rails_ship.git
-[submodule "rails_wait"]
-	path = rails_wait
-	url = git@github.com:work-design/rails_wait.git
 [submodule "rails_spider"]
   path = rails_spider
   url = git@github.com:work-design/rails_spider.git
@@ -91,6 +88,9 @@
 [submodule "rails_vip"]
   path = rails_vip
   url = git@github.com:work-design/rails_vip.git
+[submodule "rails_wait"]
+	path = rails_wait
+	url = git@github.com:work-design/rails_wait.git
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
