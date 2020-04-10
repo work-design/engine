@@ -94,6 +94,3 @@
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
-[submodule "view_bootstrap"]
-  path = view_bootstrap
-  url = git@github.com:work-design/view_bootstrap.git
