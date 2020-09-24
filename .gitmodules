@@ -89,11 +89,14 @@
   path = rails_vip
   url = git@github.com:work-design/rails_vip.git
 [submodule "rails_wait"]
-	path = rails_wait
-	url = git@github.com:work-design/rails_wait.git
+  path = rails_wait
+  url = git@github.com:work-design/rails_wait.git
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
 [submodule "rails_facility"]
-	path = rails_facility
-	url = git@github.com:work-design/rails_facility.git
+  path = rails_facility
+  url = git@github.com:work-design/rails_facility.git
+[submodule "rails_verify"]
+  path = rails_verify
+  url = git@github.com:work-design/rails_verify.git
