@@ -97,6 +97,3 @@
 [submodule "rails_facility"]
   path = rails_facility
   url = git@github.com:work-design/rails_facility.git
-[submodule "rails_verify"]
-  path = rails_verify
-  url = git@github.com:work-design/rails_verify.git
