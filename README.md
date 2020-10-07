@@ -14,8 +14,8 @@ git submodule update --init
 
 * 后续更新项目
 ```
-git submodule update --rebase
-git submodule update --merge 
+git pull
+git submodule update --rebase(或--merge) 
 ```
 
 * 更新每个engine(子项目)
