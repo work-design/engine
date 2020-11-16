@@ -52,6 +52,9 @@
 [submodule "rails_log"]
   path = rails_log
   url = git@github.com:work-design/rails_log.git
+[submodule "rails_media"]
+  path = rails_log
+  url = git@github.com:work-design/rails_media.git
 [submodule "rails_notice"]
   path = rails_notice
   url = git@github.com:work-design/rails_notice.git
