@@ -85,9 +85,6 @@
 [submodule "rails_trade"]
   path = rails_trade
   url = git@github.com:work-design/rails_trade.git
-[submodule "rails_vip"]
-  path = rails_vip
-  url = git@github.com:work-design/rails_vip.git
 [submodule "rails_wait"]
   path = rails_wait
   url = git@github.com:work-design/rails_wait.git
