@@ -79,9 +79,6 @@
 [submodule "rails_sync"]
   path = rails_sync
   url = git@github.com:work-design/rails_sync.git
-[submodule "rails_things"]
-  path = rails_things
-  url = git@github.com:work-design/rails_things.git
 [submodule "rails_trade"]
   path = rails_trade
   url = git@github.com:work-design/rails_trade.git
