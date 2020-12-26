@@ -88,3 +88,6 @@
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
+[submodule "rails_ui"]
+  path = rails_ui
+  url = git@github.com:work-design/rails_ui.git
