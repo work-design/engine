@@ -3,6 +3,22 @@
 ## [组件列表](https://work.design/price)
 
 
+## 新增一个组件
+
+1. 在 .gitmodules 加入配置信息，如：
+
+```
+[submodule "rails_xxx"]
+  path = rails_xxx
+  url = git@github.com:work-design/rails_xxx.git
+```
+
+2. `git submodule init rails_xxx`
+3. `git submodule update rails_xxx`
+4. 进入 rails_xxx, 执行 git checkout master
+
+
+
 ## 使用
 
 更新子模块(engine)
