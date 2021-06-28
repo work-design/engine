@@ -94,3 +94,6 @@
 [submodule "rails_ui"]
   path = rails_ui
   url = git@github.com:work-design/rails_ui.git
+[submodule "rails_markdown"]
+  path = rails_markdown
+  url = git@github.com:work-design/rails_markdown.git
