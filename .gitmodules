@@ -98,5 +98,8 @@
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
 [submodule "rails_dingtalk"]
-	path = rails_dingtalk
-	url = git@github.com:work-design/rails_dingtalk.git
+  path = rails_dingtalk
+  url = git@github.com:work-design/rails_dingtalk.git
+[submodule "rails_extend"]
+  path = rails_extend
+  url = git@github.com:work-design/rails_extend.git
