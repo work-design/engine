@@ -93,7 +93,7 @@
   url = git@github.com:work-design/rails_wechat.git
 [submodule "rails_design"]
 	path = rails_design
-	url = https://github.com/work-design/rails_design.git
+	url = git@github.com:work-design/rails_design.git
 [submodule "rails_markdown"]
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
@@ -103,3 +103,6 @@
 [submodule "rails_extend"]
   path = rails_extend
   url = git@github.com:work-design/rails_extend.git
+[submodule "rails_vite"]
+	path = rails_vite
+	url = git@github.com:work-design/rails_vite.git
