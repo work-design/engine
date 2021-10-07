@@ -55,9 +55,9 @@
 [submodule "rails_med"]
   path = rails_med
   url = git@github.com:work-design/rails_med.git
-[submodule "rails_media"]
-  path = rails_media
-  url = git@github.com:work-design/rails_media.git
+[submodule "rails_cms"]
+  path = rails_cms
+  url = git@github.com:work-design/rails_cms.git
 [submodule "rails_notice"]
   path = rails_notice
   url = git@github.com:work-design/rails_notice.git
@@ -92,8 +92,8 @@
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
 [submodule "rails_design"]
-	path = rails_design
-	url = git@github.com:work-design/rails_design.git
+  path = rails_design
+  url = git@github.com:work-design/rails_design.git
 [submodule "rails_markdown"]
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
@@ -104,5 +104,5 @@
   path = rails_extend
   url = git@github.com:work-design/rails_extend.git
 [submodule "rails_vite"]
-	path = rails_vite
-	url = git@github.com:work-design/rails_vite.git
+  path = rails_vite
+  url = git@github.com:work-design/rails_vite.git
