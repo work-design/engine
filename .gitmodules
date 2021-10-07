@@ -56,8 +56,8 @@
   path = rails_med
   url = git@github.com:work-design/rails_med.git
 [submodule "rails_cms"]
-	path = rails_cms
-	url = git@github.com:work-design/rails_cms.git
+  path = rails_cms
+  url = git@github.com:work-design/rails_cms.git
 [submodule "rails_notice"]
   path = rails_notice
   url = git@github.com:work-design/rails_notice.git
