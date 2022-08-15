@@ -98,5 +98,8 @@
   path = rails_extend
   url = git@github.com:work-design/rails_extend.git
 [submodule "rails_space"]
-	path = rails_space
-	url = git@github.com:work-design/rails_space.git
+  path = rails_space
+  url = git@github.com:work-design/rails_space.git
+[submodule "rails_serve"]
+  path = rails_serve
+  url = git@github.com:work-design/rails_serve.git
