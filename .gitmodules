@@ -25,6 +25,9 @@
 [submodule "rails_doc"]
   path = rails_doc
   url = git@github.com:work-design/rails_doc.git
+[submodule "rails_douyin"]
+	path = rails_douyin
+	url = git@github.com:work-design/rails_douyin.git
 [submodule "rails_edu"]
   path = rails_edu
   url = git@github.com:work-design/rails_edu.git
