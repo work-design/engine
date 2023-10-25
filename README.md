@@ -5,18 +5,12 @@
 
 ## 新增一个组件
 
-1. 在 .gitmodules 加入配置信息，如：
+* 在 .gitmodules 加入配置信息，如：
+  1. `git submodule git@github.com:work-design/rails_xxx.git rails_xxx`
+  2. `git submodule init rails_xxx`
+  3. `git submodule update rails_xxx`
 
-```
-[submodule "rails_xxx"]
-  path = rails_xxx
-  url = git@github.com:work-design/rails_xxx.git
-```
-
-2. `git submodule init rails_xxx`
-3. `git submodule update rails_xxx`
-4. 进入 rails_xxx, 执行 git checkout master
-
+* 进入 rails_xxx, 执行 git checkout master
 
 
 ## 使用
