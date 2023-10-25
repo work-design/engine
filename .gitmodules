@@ -10,6 +10,9 @@
 [submodule "rails_bench"]
   path = rails_bench
   url = git@github.com:work-design/rails_bench.git
+[submodule "rails_cms"]
+  path = rails_bench
+  url = git@github.com:work-design/rails_cms.git
 [submodule "rails_com"]
   path = rails_com
   url = git@github.com:work-design/rails_com.git
@@ -19,15 +22,21 @@
 [submodule "rails_data"]
   path = rails_data
   url = git@github.com:work-design/rails_data.git
+[submodule "rails_design"]
+  path = rails_design
+  url = git@github.com:work-design/rails_design.git
 [submodule "rails_detail"]
   path = rails_detail
   url = git@github.com:work-design/rails_detail.git
+[submodule "rails_dingtalk"]
+  path = rails_dingtalk
+  url = git@github.com:work-design/rails_dingtalk.git
 [submodule "rails_doc"]
   path = rails_doc
   url = git@github.com:work-design/rails_doc.git
 [submodule "rails_douyin"]
-	path = rails_douyin
-	url = git@github.com:work-design/rails_douyin.git
+  path = rails_douyin
+  url = git@github.com:work-design/rails_douyin.git
 [submodule "rails_edu"]
   path = rails_edu
   url = git@github.com:work-design/rails_edu.git
@@ -88,21 +97,12 @@
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
-[submodule "rails_design"]
-  path = rails_design
-  url = git@github.com:work-design/rails_design.git
 [submodule "rails_markdown"]
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
-[submodule "rails_dingtalk"]
-  path = rails_dingtalk
-  url = git@github.com:work-design/rails_dingtalk.git
 [submodule "rails_extend"]
   path = rails_extend
   url = git@github.com:work-design/rails_extend.git
 [submodule "rails_space"]
   path = rails_space
   url = git@github.com:work-design/rails_space.git
-[submodule "rails_serve"]
-  path = rails_serve
-  url = git@github.com:work-design/rails_serve.git
