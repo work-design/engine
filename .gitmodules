@@ -7,8 +7,11 @@
 [submodule "rails_auth"]
   path = rails_auth
   url = git@github.com:work-design/rails_auth.git
-[submodule "rails_cms"]
+[submodule "rails_bench"]
   path = rails_bench
+  url = git@github.com:work-design/rails_bench.git
+[submodule "rails_cms"]
+  path = rails_cms
   url = git@github.com:work-design/rails_cms.git
 [submodule "rails_com"]
   path = rails_com
