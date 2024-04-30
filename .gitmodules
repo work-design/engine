@@ -97,9 +97,6 @@
 [submodule "rails_markdown"]
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
-[submodule "rails_extend"]
-  path = rails_extend
-  url = git@github.com:work-design/rails_extend.git
 [submodule "rails_space"]
   path = rails_space
   url = git@github.com:work-design/rails_space.git
