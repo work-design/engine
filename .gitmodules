@@ -100,3 +100,6 @@
 [submodule "rails_space"]
   path = rails_space
   url = git@github.com:work-design/rails_space.git
+[submodule "rails_qingflow"]
+  path = rails_qingflow
+  url = git@github.com:work-design/rails_qingflow.git
