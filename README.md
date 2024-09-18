@@ -5,6 +5,8 @@
 
 ## 新增一个组件
 
+* 从 0 开始新增一个 engine:
+  1. `rails plugin new --full rails_xxx`
 * 在 .gitmodules 加入配置信息，如：
   1. `git submodule git@github.com:work-design/rails_xxx.git rails_xxx`
   2. `git submodule init rails_xxx`
