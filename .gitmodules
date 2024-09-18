@@ -97,3 +97,6 @@
 [submodule "rails_space"]
   path = rails_space
   url = git@github.com:work-design/rails_space.git
+[submodule "rails_bluetooth"]
+	path = rails_bluetooth
+	url = git@github.com:work-design/rails_bluetooth
