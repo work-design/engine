@@ -21,6 +21,7 @@
 
 * 第一次初始化项目
 ```
+git clone git@github.com:work-design/engine.git
 git submodule update --init
 git submodule foreach git checkout main
 ```
