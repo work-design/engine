@@ -40,3 +40,10 @@ git submodule update --rebase --recursive
 
 ## engine 加载顺序
 在gemfile靠后的engine的model常量会先加载； 
+
+
+## 其他
+bundle config local.rails_xxx ~/your_main_project_path/engine_path/rails_xxx
+
+BUNDLE_DISABLE_LOCAL_BRANCH_CHECK: "true"
+
