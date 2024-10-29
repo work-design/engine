@@ -22,6 +22,7 @@
 * 第一次初始化项目
 ```
 git submodule update --init
+git submodule foreach git checkout main
 ```
 
 * 后续更新项目
