@@ -70,9 +70,6 @@
 [submodule "rails_org"]
   path = rails_org
   url = git@github.com:work-design/rails_org.git
-[submodule "rails_quip"]
-  path = rails_quip
-  url = git@github.com:work-design/rails_quip.git
 [submodule "rails_ship"]
   path = rails_ship
   url = git@github.com:work-design/rails_ship.git
