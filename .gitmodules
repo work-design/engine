@@ -1,105 +1,140 @@
 [submodule "rails_attend"]
   path = rails_attend
   url = git@github.com:work-design/rails_attend.git
+  update = rebase
 [submodule "rails_audit"]
   path = rails_audit
   url = git@github.com:work-design/rails_audit.git
+  update = rebase
 [submodule "rails_auth"]
   path = rails_auth
   url = git@github.com:work-design/rails_auth.git
+  update = rebase
 [submodule "rails_bench"]
   path = rails_bench
   url = git@github.com:work-design/rails_bench.git
+  update = rebase
 [submodule "rails_cms"]
   path = rails_cms
   url = git@github.com:work-design/rails_cms.git
+  update = rebase
 [submodule "rails_com"]
   path = rails_com
   url = git@github.com:work-design/rails_com.git
+  update = rebase
 [submodule "rails_crm"]
   path = rails_crm
   url = git@github.com:work-design/rails_crm.git
+  update = rebase
 [submodule "rails_data"]
   path = rails_data
   url = git@github.com:work-design/rails_data.git
+  update = rebase
 [submodule "rails_design"]
   path = rails_design
   url = git@github.com:work-design/rails_design.git
+  update = rebase
 [submodule "rails_detail"]
   path = rails_detail
   url = git@github.com:work-design/rails_detail.git
+  update = rebase
 [submodule "rails_dingtalk"]
   path = rails_dingtalk
   url = git@github.com:work-design/rails_dingtalk.git
+  update = rebase
 [submodule "rails_doc"]
   path = rails_doc
   url = git@github.com:work-design/rails_doc.git
+  update = rebase
 [submodule "rails_douyin"]
   path = rails_douyin
   url = git@github.com:work-design/rails_douyin.git
+  update = rebase
 [submodule "rails_edu"]
   path = rails_edu
   url = git@github.com:work-design/rails_edu.git
+  update = rebase
 [submodule "rails_enquiry"]
   path = rails_enquiry
   url = git@github.com:work-design/rails_enquiry.git
+  update = rebase
 [submodule "rails_event"]
   path = rails_event
   url = git@github.com:work-design/rails_event.git
+  update = rebase
 [submodule "rails_factory"]
   path = rails_factory
   url = git@github.com:work-design/rails_factory.git
+  update = rebase
 [submodule "rails_finance"]
   path = rails_finance
   url = git@github.com:work-design/rails_finance.git
+  update = rebase
 [submodule "rails_growth"]
   path = rails_growth
   url = git@github.com:work-design/rails_growth.git
+  update = rebase
 [submodule "rails_interact"]
   path = rails_interact
   url = git@github.com:work-design/rails_interact.git
+  update = rebase
 [submodule "rails_email"]
   path = rails_email
   url = git@github.com:work-design/rails_email.git
+  update = rebase
 [submodule "rails_med"]
   path = rails_med
   url = git@github.com:work-design/rails_med.git
+  update = rebase
 [submodule "rails_notice"]
   path = rails_notice
   url = git@github.com:work-design/rails_notice.git
+  update = rebase
 [submodule "rails_org"]
   path = rails_org
   url = git@github.com:work-design/rails_org.git
+  update = rebase
 [submodule "rails_ship"]
   path = rails_ship
   url = git@github.com:work-design/rails_ship.git
+  update = rebase
 [submodule "rails_spider"]
   path = rails_spider
   url = git@github.com:work-design/rails_spider.git
+  update = rebase
 [submodule "rails_sync"]
   path = rails_sync
   url = git@github.com:work-design/rails_sync.git
+  update = rebase
 [submodule "rails_trade"]
   path = rails_trade
   url = git@github.com:work-design/rails_trade.git
+  update = rebase
 [submodule "rails_wait"]
   path = rails_wait
   url = git@github.com:work-design/rails_wait.git
+  update = rebase
 [submodule "rails_wechat"]
   path = rails_wechat
   url = git@github.com:work-design/rails_wechat.git
+  update = rebase
 [submodule "rails_markdown"]
   path = rails_markdown
   url = git@github.com:work-design/rails_markdown.git
+  update = rebase
 [submodule "rails_space"]
   path = rails_space
   url = git@github.com:work-design/rails_space.git
+  update = rebase
 [submodule "rails_bluetooth"]
   path = rails_bluetooth
   url = git@github.com:work-design/rails_bluetooth
+  update = rebase
 [submodule "rails_jia_bo"]
   path = rails_jia_bo
   url = git@github.com:work-design/rails_jia_bo.git
+  update = rebase
 [submodule "rails_alipay"]
   path = rails_alipay
   url = git@github.com:work-design/rails_alipay.git
+  update = rebase
