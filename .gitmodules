@@ -138,3 +138,6 @@
   path = rails_alipay
   url = git@github.com:work-design/rails_alipay.git
   update = rebase
+[submodule "rails_kimi"]
+	path = rails_kimi
+	url = git@github.com:work-design/rails_kimi.git

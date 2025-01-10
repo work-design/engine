@@ -6,10 +6,13 @@
 ## 新增一个组件
 
 * 从 0 开始新增一个 engine:
-  1. `rails plugin new --full rails_xxx`
-* 在 .gitmodules 加入配置信息，如：
-  1. `git submodule git@github.com:work-design/rails_xxx.git rails_xxx`
-  2. `git submodule init rails_xxx`
+  * `rails plugin new --full rails_xxx`
+  * 进入 rails_xxx 目录
+    * `git init`
+    * `git submodule add git@github.com:work-design/dummy.git test/dummy`
+* 在 .gitmodules 加入配置信息：
+  1. `git submodule add git@github.com:work-design/rails_xxx.git rails_xxx`
+  2. `git submodule absorbgitdirs rails_xxx`
   3. `git submodule update rails_xxx`
 
 * 进入 rails_xxx, 执行 git checkout master
