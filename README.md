@@ -13,10 +13,8 @@
 * 在 .gitmodules 加入配置信息：
   1. `git submodule add git@github.com:work-design/rails_xxx.git rails_xxx`
   2. `git submodule absorbgitdirs rails_xxx`
-  3. `git submodule update rails_xxx`
 
 * 进入 rails_xxx, 执行 git checkout master
-
 
 ## 使用
 
