@@ -134,6 +134,7 @@
   path = rails_jia_bo
   url = git@github.com:work-design/rails_jia_bo.git
   update = rebase
+  fetchRecurseSubmodules = true
 [submodule "rails_alipay"]
   path = rails_alipay
   url = git@github.com:work-design/rails_alipay.git
@@ -141,3 +142,4 @@
 [submodule "rails_kimi"]
 	path = rails_kimi
 	url = git@github.com:work-design/rails_kimi.git
+  update = rebase
