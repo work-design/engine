@@ -130,9 +130,9 @@
   path = rails_bluetooth
   url = git@github.com:work-design/rails_bluetooth
   update = rebase
-[submodule "rails_jia_bo"]
-  path = rails_jia_bo
-  url = git@github.com:work-design/rails_jia_bo.git
+[submodule "rails_print"]
+  path = rails_print
+  url = git@github.com:work-design/rails_print.git
   update = rebase
   fetchRecurseSubmodules = true
 [submodule "rails_alipay"]
@@ -140,6 +140,6 @@
   url = git@github.com:work-design/rails_alipay.git
   update = rebase
 [submodule "rails_kimi"]
-	path = rails_kimi
-	url = git@github.com:work-design/rails_kimi.git
+  path = rails_kimi
+  url = git@github.com:work-design/rails_kimi.git
   update = rebase
